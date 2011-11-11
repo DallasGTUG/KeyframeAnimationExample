@@ -1,0 +1,19 @@
+ <animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/anim_bon_fire" android:oneshot="false">
+    <item android:drawable="@drawable/campfire01" android:duration="100" />
+    <item android:drawable="@drawable/campfire02" android:duration="100" />
+    <item android:drawable="@drawable/campfire03" android:duration="100" />
+    <item android:drawable="@drawable/campfire04" android:duration="100" />
+    <item android:drawable="@drawable/campfire05" android:duration="100" />
+    <item android:drawable="@drawable/campfire06" android:duration="100" />
+    <item android:drawable="@drawable/campfire07" android:duration="100" />
+    <item android:drawable="@drawable/campfire08" android:duration="100" />
+    <item android:drawable="@drawable/campfire09" android:duration="100" />
+    <item android:drawable="@drawable/campfire10" android:duration="100" />
+    <item android:drawable="@drawable/campfire11" android:duration="100" />
+    <item android:drawable="@drawable/campfire12" android:duration="100" />
+    <item android:drawable="@drawable/campfire13" android:duration="100" />
+    <item android:drawable="@drawable/campfire14" android:duration="100" />
+    <item android:drawable="@drawable/campfire15" android:duration="100" />
+    <item android:drawable="@drawable/campfire16" android:duration="100" />
+    <item android:drawable="@drawable/campfire17" android:duration="100" />
+ </animation-list>
